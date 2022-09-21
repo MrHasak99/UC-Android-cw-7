@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "969268067819",
+    "firebase_url": "https://itemshop-f6f1d-default-rtdb.firebaseio.com",
+    "project_id": "itemshop-f6f1d",
+    "storage_bucket": "itemshop-f6f1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969268067819:android:7297f7dc6f13aad6f66dae",
+        "android_client_info": {
+          "package_name": "com.example.classwork5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969268067819-1ksn5n93g927n7ltnpmd4cc00pllhunq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCDShr0JClFIA16BZrb6mqteNogi2xf1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969268067819-1ksn5n93g927n7ltnpmd4cc00pllhunq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
